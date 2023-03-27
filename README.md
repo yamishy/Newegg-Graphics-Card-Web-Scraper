@@ -4,7 +4,7 @@ This is a Python web scraper designed to extract GPU information from Newegg's w
 
 ## Installation
 
-    1. Clone the repository to your local machine using the command git clone https://github.com/yourusername/newegg-gpu-data-scraper.git.
+    1. Clone the repository to your local machine using the command git clone https://github.com/yamishy/newegg-graphics-card-web-scraper.git.
 
 ## Usage
 
