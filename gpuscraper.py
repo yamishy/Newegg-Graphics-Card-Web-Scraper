@@ -47,7 +47,7 @@ for list in lists:
     item_price = price_list[0].parent #returns price 
     item_price = "$" + item_price.find("strong").string + item_price.find("sup").string #returns price
 
-    #print to console to test if its working 
+    #print to console to display data
     print("Brand: " + item_brand)
     print("Name: " + item_name)
     print("Price: " + item_price)
